@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-      <Header/>    
+      <Header title="Bem vindo"/>    
       <section id="center">
        
         <div>
